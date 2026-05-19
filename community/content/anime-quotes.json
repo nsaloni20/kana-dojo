@@ -467,150 +467,47 @@
     "english": "Shishishi! (alt wording 30)",
     "anime": "One Piece",
     "character": "Monkey D. Luffy"
-  },
-  {
-    "japanese": "オラに元気を分けてくれ!",
-    "romaji": "Ora ni genki o wakete kure!",
-    "english": "Lend me your energy! (alt wording 52)",
-    "anime": "Dragon Ball Z",
-    "character": "Son Goku"
-  },
-  {
-    "japanese": "だが…それがいい。",
-    "romaji": "Daga... sore ga ii.",
-    "english": "But... that's what I like. (alt wording 16) (alt wording 68)",
-    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-    "character": "Yoshikage Kira"
-  },
-  {
-    "japanese": "だが…それがいい。",
-    "romaji": "Daga... sore ga ii.",
-    "english": "But... that's what I like. (alt wording 16) (alt wording 68)",
-    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-    "character": "Yoshikage Kira"
-  },
-  {
-    "japanese": "撃っていいのは撃たれる覚悟がある奴だけだ",
-    "romaji": "Utte ii no wa uterareru kakugo ga aru yatsu dake da",
-    "english": "Only those prepared to be shot should pull the trigger. (alt wording 45)",
-    "anime": "Code Geass: Lelouch of the Rebellion",
-    "character": "Lelouch vi Britannia"
-  },
-  {
-    "japanese": "笑えばいいと思うよ",
-    "romaji": "Waraeba ii to omou yo",
-    "english": "I think you should just laugh.",
-    "anime": "Neon Genesis Evangelion",
-    "character": "Rei Ayanami"
-  },
-  {
-    "quote": "People's lives don't end when they die. It ends when they lose faith.",
-    "character": "Itachi Uchiha",
-    "anime": "Naruto"
-  },
-  {
-    "japanese": "笑えばいいと思うよ",
-    "romaji": "Waraeba ii to omou yo",
-    "english": "I think you should just laugh.",
-    "anime": "Neon Genesis Evangelion",
-    "character": "Rei Ayanami"
-  },
-  {
-    "japanese": "さらに向こうへ!プルスウルトラ!",
-    "romaji": "Sarani mukou e! Purusu Urutora!",
-    "english": "Go beyond! Plus Ultra! (alt wording 38)",
-    "anime": "My Hero Academia",
-    "character": "All Might"
-  },
-  {
-    "japanese": "仲間を信じることが俺の魔法だ",
-    "romaji": "Nakama o shinjiru koto ga ore no mahou da",
-    "english": "Believing in my friends is my magic. (alt wording 49)",
-    "anime": "Fairy Tail",
-    "character": "Natsu Dragneel"
-  },
-  {
-    "japanese": "だが…それがいい。",
-    "romaji": "Daga... sore ga ii.",
-    "english": "But... that's what I like. (alt wording 16) (alt wording 68)",
-    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-    "character": "Yoshikage Kira"
-  },
-  {
-    "japanese": "俺はガンダムだ！",
-    "romaji": "Ore wa Gandamu da!",
-    "english": "I am Gundam! (alt wording 25)",
-    "anime": "Mobile Suit Gundam 00",
-    "character": "Setsuna F. Seiei"
-  },
-  {
-    "japanese": "オラに元気を分けてくれ!",
-    "romaji": "Ora ni genki o wakete kure!",
-    "english": "Lend me your energy! (alt wording 52)",
-    "anime": "Dragon Ball Z",
-    "character": "Son Goku"
-  },
-  {
-    "japanese": "やれやれだぜ…まったく。",
-    "romaji": "Yare yare da ze... mattaku.",
-    "english": "Good grief... honestly. (alt wording 15) (alt wording 67)",
-    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-    "character": "Jotaro Kujo"
-  },
-  {
-    "japanese": "駆逐してやる!この世から一匹残らず!",
-    "romaji": "Kuchiku shite yaru! Kono yo kara ippiki nokorazu!",
-    "english": "I'll exterminate them! Every last one from this world! (alt wording 36) (alt wording 88)",
-    "anime": "Attack on Titan",
-    "character": "Eren Yeager"
-  },
-  {
-    "japanese": "マママママ",
-    "romaji": "Mama mama mama",
-    "english": "Mama mama mama.",
-    "anime": "One Piece",
-    "character": "Charlotte Linlin (Big Mom)"
-  },
-  {
-    "japanese": "貴様ッ！見ているなッ！！",
-    "romaji": "Kisama! Mite iru na!!",
-    "english": "You! You're watching me!",
-    "anime": "JoJo's Bizarre Adventure: Stone Ocean",
-    "character": "Jolyne Cujoh"
-  },
-  {
-    "japanese": "諦めるという言葉は俺の辞書にない",
-    "romaji": "Akirameru to iu kotoba wa ore no jisho ni nai",
-    "english": "The word 'give up' isn't in my dictionary. (alt wording 50)",
-    "anime": "Black Clover",
-    "character": "Asta"
-  },
-  {
-    "japanese": "仲間を大切にしない奴はそれ以上のクズだ",
-    "romaji": "Nakama o taisetsu ni shinai yatsu wa sore ijou no kuzu da",
-    "english": "Those who don't take care of their comrades are worse than scum. (alt wording 34)",
-    "anime": "Naruto",
-    "character": "Kakashi Hatake"
-  },
-  {
-  "japanese": "俺は趣味でヒーローをやっている者だ",
-  "romaji": "Ore wa shumi de hiiroo o yatte iru mono da",
-  "english": "I'm just a hero for fun.",
-  "anime": "One Punch Man",
-  "character": "Saitama"
-  },
-  {
-    "japanese": "イエス！イエス！イエス！イエス！",
-    "romaji": "Iesu! Iesu! Iesu! Iesu!",
-    "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
-    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-    "character": "DIO"
-  },
-  {
-    "japanese": "おれは人間を超越する！",
-    "romaji": "Ore wa ningen o chouetsu suru!",
-    "english": "I will transcend humanity! (alt wording 14)",
-    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
-    "character": "Kars"
-  }
+},
+{
+  "japanese": "オラに元気を分けてくれ!",
+  "romaji": "Ora ni genki o wakete kure!",
+  "english": "Lend me your energy! (alt wording 52)",
+  "anime": "Dragon Ball Z",
+  "character": "Son Goku"
+},
+{
+  "japanese": "だが…それがいい。",
+  "romaji": "Daga... sore ga ii.",
+  "english": "But... that's what I like. (alt wording 16) (alt wording 68)",
+  "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+  "character": "Yoshikage Kira"
+},
+{
+  "japanese": "だが…それがいい。",
+  "romaji": "Daga... sore ga ii.",
+  "english": "But... that's what I like. (alt wording 16) (alt wording 68)",
+  "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+  "character": "Yoshikage Kira"
+},
+{
+  "japanese": "撃っていいのは撃たれる覚悟がある奴だけだ",
+  "romaji": "Utte ii no wa uterareru kakugo ga aru yatsu dake da",
+  "english": "Only those prepared to be shot should pull the trigger. (alt wording 45)",
+  "anime": "Code Geass: Lelouch of the Rebellion",
+  "character": "Lelouch vi Britannia"
+},
+{
+  "japanese": "笑えばいいと思うよ",
+  "romaji": "Waraeba ii to omou yo",
+  "english": "I think you should just laugh.",
+  "anime": "Neon Genesis Evangelion",
+  "character": "Rei Ayanami"
+},
+{
+  "japanese": "だが…それがいい。",
+  "romaji": "Daga... sore ga ii.",
+  "english": "But... that's what I like.",
+  "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+  "character": "Yoshikage Kira"
+}
 ]
