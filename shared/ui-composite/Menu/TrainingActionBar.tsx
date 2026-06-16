@@ -302,7 +302,7 @@ const TrainingActionBar: React.FC<ITopBarProps> = ({
                   id: 'classic',
                   label: 'Go',
                   Icon: Play,
-                  iconClassName: isFilled ? 'fill-current' : '',
+                  iconClassName: '',
                   show: true,
                   colorScheme: 'primary' as const,
                   onClick: () => {
@@ -336,13 +336,12 @@ const TrainingActionBar: React.FC<ITopBarProps> = ({
                           ? 'w-full sm:w-3/4 md:w-1/2 md:max-w-sm md:px-6'
                           : 'w-1/4 sm:w-auto sm:max-w-sm sm:flex-1 sm:px-6',
                         'rounded-3xl transition-colors duration-200',
-                        'border-b-10',
                         'hover:cursor-pointer',
                         colorScheme === 'secondary' &&
-                          'border-(--secondary-color-accent) bg-(--secondary-color)/90 text-(--background-color)',
+                          'bg-(--secondary-color)/90 text-(--background-color)',
                         colorScheme === 'primary' &&
                           (isFilled
-                            ? 'border-(--main-color-accent) bg-(--main-color) text-(--background-color)'
+                            ? 'bg-(--main-color) text-(--background-color)'
                             : 'cursor-not-allowed bg-(--card-color) text-(--border-color)'),
                       )}
                       onClick={e => {
@@ -351,14 +350,17 @@ const TrainingActionBar: React.FC<ITopBarProps> = ({
                         onClick();
                       }}
                     >
-                      <Icon
-                        size={20}
-                        className={cn(
-                          iconClassName,
-                          id === 'classic' && 'animate-bounce',
-                        )}
-                      />
-                      <span className='whitespace-nowrap'>
+                      <div className='flex h-10 w-10 shrink-0 items-center justify-center rounded-full border-2 border-(--background-color) bg-(--background-color)'>
+                        <Icon
+                          size={24}
+                          className={cn(
+                            iconClassName,
+                            id === 'classic' && 'animate-bounce',
+                            'text-(--main-color)',
+                          )}
+                        />
+                      </div>
+                      <span className='whitespace-nowrap text-lg font-medium sm:text-xl'>
                         {label}
                       </span>
                     </button>
